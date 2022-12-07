@@ -4,13 +4,7 @@ I am a Dad and a restless spirit. A Cloud-Addict with a strong focus on Security
 - 🔭 Always working on articles and in-depths that are related to the OS above and all Cloud-driven solutions with privacy in mind
 - 🌱 Always learning, trying to get the big whole
 - 🪂 Often disjointed but easy to thrill when it comes to discover something new
-- Currently exploring <a rel="me" href="https://chaos.social/@OliverPifferi">Mastodon</a>
-
-## Connect with me
-[<img align="left" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/OliverPifferi)
-[<img align="left" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/Jarl_Palsson/)
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/oliverpifferi)
-[<img align="left" alt="xing" src="https://img.shields.io/badge/xing-%231DA1F2.svg?&style=for-the-badge&logo=xing&logoColor=white" />](https://www.xing.com/profile/Oliver_Pifferi/)<br/>
+- Currently exploring <a rel="me" href="https://niflheim.social/@oliver">Mastodon</a> and <a href="https://heathenarmy.net/oliver">Pixelfed</a>
 
 ## Share something with me
 
