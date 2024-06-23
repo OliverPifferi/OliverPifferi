@@ -4,7 +4,7 @@ I am a Dad and a restless spirit. A Cloud-Addict with a strong focus on Security
 - 🔭 Always working on articles and in-depths that are related to the OS above and all Cloud-driven solutions with privacy in mind
 - 🌱 Always learning, trying to get the big whole
 - 🪂 Often disjointed but easy to thrill when it comes to discover something new
-- Currently exploring the Fediverse with <a rel="me" href="https://norse.social/@oliver">Mastodon</a>, <a href="https://pix.norse.social/oliver">Pixelfed</a> and <a href="https://books.norse.social/user/oliver">BookWyrm</a>.
+- Currently exploring the Fediverse with <a rel="me" href="https://norse.social/@oliver">Mastodon</a> and <a href="https://pix.norse.social/oliver">Pixelfed</a>.
 
 ## Support me
 
